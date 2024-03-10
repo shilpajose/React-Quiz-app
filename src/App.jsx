@@ -139,7 +139,7 @@ function App() {
 
   return (
     <>
-      <div className='container w-75 p-5' sm={12} md={6}>
+      <div className='container w-75 p-5 border mt-5' sm={12} md={6}>
         <h1 className='text-center text-secondary' style={{ textDecoration: 'underline' }}>React Online Quiz</h1>
         <div className='container w-75 p-5 m-5'>
           <div>
